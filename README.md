@@ -11,10 +11,10 @@ ghdl -a --std=08 tb_mitigation_tdm.vhd
 ghdl -e --std=08 tb_mitigation_tdm
 ghdl -r --std=08 tb_mitigation_tdm
 ipython
-'''
+```
 
 (inside ipython, type: )
 
 ```
 %run plot_tdm_results.py
-'''
+```
